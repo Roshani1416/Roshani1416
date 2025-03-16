@@ -6,7 +6,7 @@ I'm a first-year college student with a passion for coding and problem-solving. 
 
 ### 💻 Tech Stack
 - **Languages:** Python, C++, SQL
-- **Skills:** Data Structures and Algorithms (DSA)
+- **Skills:** Frontend developer || AIML || GenAI
 
 ### 🚀 Projects
 I'm actively working on projects that help me apply my coding skills in real-world scenarios. Stay tuned for updates on my repositories!
